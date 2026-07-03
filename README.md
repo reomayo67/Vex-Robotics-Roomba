@@ -8,6 +8,7 @@ Avoid a designated obstacle (yellow blocks)
 Stay within designated boundaries (red or blue tape)
 
 Now, given that criteria, we, me and Soren, built this.
+
 <img width="298" height="397" alt="Screenshot 2026-07-02 203016" src="https://github.com/user-attachments/assets/1debfaac-a484-49e0-963f-e8928f81d3ce" />
 
 
