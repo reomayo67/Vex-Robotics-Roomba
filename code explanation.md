@@ -8,5 +8,14 @@ While loops start and begin to scan, separate phases exist based on sensor input
 
 Functions are set, scanning and line avoidance.
 
+Here is some pseudo code for the roomba
+
+<img width="505" height="671" alt="Screenshot 2026-07-02 210452" src="https://github.com/user-attachments/assets/d21ecbfd-aabf-40f1-bca8-961e8dd480cb" />
+
+Initial Brainstorming pseudocode (left) and final guiding pseudocode (right) that was used to create the actual program.
+
+<img width="618" height="796" alt="Screenshot 2026-07-02 210521" src="https://github.com/user-attachments/assets/698b90db-794c-49b5-99cf-fdff3d900680" />
+
+
 
 
